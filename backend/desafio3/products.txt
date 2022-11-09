@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Cheese",
+    "price": 1500,
+    "thumbnail": "www.burger.com",
+    "id": 1
+  },
+  {
+    "title": "Onion",
+    "price": 1600,
+    "thumbnail": "www.burger.com",
+    "id": 2
+  },
+  {
+    "title": "Smash",
+    "price": 1700,
+    "thumbnail": "www.burger.com",
+    "id": 3
+  }
+]
